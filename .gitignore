@@ -1,6 +1,9 @@
 ## Ignorar carpetas de compilación
 [Bb]in/
 [Oo]bj/
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
 
 ## Visual Studio (Configuraciones de usuario y cache)
 .vs
@@ -9,6 +12,15 @@
 *.suo
 *.userosscache
 *.sln.docstates
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.ilk
+*.exe
+*.recipe
+*.ipch
 
 ## Archivos de Test
 TestResults/
@@ -23,3 +35,8 @@ Thumbs.db
 
 ## Logs
 *.log
+
+## Fitxers de base de dades de Visual Studio (IntelliSense)
+*.sdf
+*.VC.db
+*.opendb

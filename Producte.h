@@ -13,7 +13,7 @@ private:
 	friend ostream& operator<<(ostream& out, const Producte& p);
 
 public:
-	Producte(int codi, char* nom);
+	Producte(int codi, const char* nom);
 	Producte(int codi, const char* nom, float preuCompra, float preuVenda, Data dataAlta);
 	Producte(const Producte& p);
 	virtual ~Producte();

@@ -5,7 +5,7 @@
 using namespace std;
 
 // Constructor 
-Producte::Producte(int codi, char* nom) 
+Producte::Producte(int codi, const char* nom) 
 	: nom(nullptr), preuCompra(nullptr), preuVenda(nullptr), dataAlta(nullptr) {
 	setCodi(codi);
 	setNom(nom);
@@ -160,5 +160,17 @@ ostream& operator<<(ostream& out, const Producte& p) {
 }
 
 void Producte::visualitzar() const {
-	cout << *this << endl;
+	cout << "-----------------------------" << endl;
+	cout << "Codi.......: " << codi << endl;
+	cout << "Nom........: " << nom << endl;
+	cout << "Preu compra: ";
+	if (preuCompra == NULL) cout << "" << endl;
+	else cout << *preuCompra << endl;
+	cout << "Preu venda.: ";
+	if (preuVenda == NULL) cout << "" << endl;
+	else cout << *preuVenda << endl;
+	cout << "Data alta..: ";
+	if (dataAlta == NULL) cout << "" << endl;
+	else cout << *dataAlta << endl;
+	cout << "-----------------------------" << endl;
 }

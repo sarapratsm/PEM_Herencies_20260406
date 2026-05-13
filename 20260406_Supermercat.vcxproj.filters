@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Archivos de encabezado\UniquePtr">
+      <UniqueIdentifier>{fc3dbc77-58a6-4186-8dbd-e3d523230744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\UniquePtr">
+      <UniqueIdentifier>{e1045cc8-c63c-4202-8cb3-93000289c943}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -30,6 +36,15 @@
     <ClCompile Include="Neteja.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="Aliment_UniPtr.cpp">
+      <Filter>Archivos de origen\UniquePtr</Filter>
+    </ClCompile>
+    <ClCompile Include="Neteja_UniPtr.cpp">
+      <Filter>Archivos de origen\UniquePtr</Filter>
+    </ClCompile>
+    <ClCompile Include="Producte_UniPtr.cpp">
+      <Filter>Archivos de origen\UniquePtr</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Producte.h">
@@ -43,6 +58,15 @@
     </ClInclude>
     <ClInclude Include="Neteja.h">
       <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Aliment_UniPtr.h">
+      <Filter>Archivos de encabezado\UniquePtr</Filter>
+    </ClInclude>
+    <ClInclude Include="Neteja_UniPtr.h">
+      <Filter>Archivos de encabezado\UniquePtr</Filter>
+    </ClInclude>
+    <ClInclude Include="Producte_UniPtr.h">
+      <Filter>Archivos de encabezado\UniquePtr</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

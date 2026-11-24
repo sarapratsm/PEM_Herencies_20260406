@@ -2,11 +2,12 @@
 [Bb]in/
 [Oo]bj/
 [Xx]64/
+[Xx]86/
+[Ww]in32/
 [Dd]ebug/
 [Rr]elease/
 
 ## Visual Studio (Configuraciones de usuario y cache)
-.vs
 .vs/
 *.user
 *.suo
@@ -18,6 +19,10 @@
 *.lastbuildstate
 *.idb
 *.ilk
+*.iobj
+*.ipdb
+*.pch
+*.res
 *.exe
 *.recipe
 *.ipch

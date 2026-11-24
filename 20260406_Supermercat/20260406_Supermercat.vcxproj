@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.cpp" />
+    <ClCompile Include="..\..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.cpp" />
     <ClCompile Include="Aliment_UniPtr.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Aliment.cpp" />
@@ -137,7 +137,7 @@
     <ClCompile Include="Producte_UniPtr.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.h" />
+    <ClInclude Include="..\..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.h" />
     <ClInclude Include="Aliment.h" />
     <ClInclude Include="Aliment_UniPtr.h" />
     <ClInclude Include="Neteja.h" />

@@ -27,7 +27,7 @@
     <ClCompile Include="Producte.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.cpp">
+    <ClCompile Include="..\..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="Aliment.cpp">
@@ -50,7 +50,7 @@
     <ClInclude Include="Producte.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.h">
+    <ClInclude Include="..\..\Biblioteca_cpp\20260108_VS_Biblioteca_Sara\Data.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Aliment.h">

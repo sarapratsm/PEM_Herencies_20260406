@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../20260423_Propietats/20260423_Propietats.vcxproj" Id="2f96e095-58d4-4655-a509-67994b5f784b" />
-  <Project Path="20260406_Supermercat.vcxproj" Id="3afc8b06-e234-4d56-8fd2-232ea56ca536" />
+  <Project Path="20260423_Propietats/20260423_Propietats.vcxproj" Id="2f96e095-58d4-4655-a509-67994b5f784b" />
+  <Project Path="20260406_Supermercat/20260406_Supermercat.vcxproj" Id="3afc8b06-e234-4d56-8fd2-232ea56ca536" />
 </Solution>

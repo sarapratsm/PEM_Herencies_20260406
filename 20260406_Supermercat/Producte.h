@@ -1,5 +1,5 @@
 #pragma once
-#include "../Biblioteca_cpp/20260108_VS_Biblioteca_Sara/Data.h"
+#include "../../Biblioteca_cpp/20260108_VS_Biblioteca_Sara/Data.h"
 
 class Producte
 {

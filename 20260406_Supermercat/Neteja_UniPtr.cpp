@@ -1,6 +1,6 @@
 #include "Neteja_UniPtr.h"
 #include "Producte_UniPtr.h"
-#include "../Biblioteca_cpp/20260108_VS_Biblioteca_Sara/Data.h"
+#include "../../Biblioteca_cpp/20260108_VS_Biblioteca_Sara/Data.h"
 
 
 

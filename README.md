@@ -1,5 +1,11 @@
 # Herències en C++ (PEM)
 
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?logo=visualstudio&logoColor=white)
+![Herència](https://img.shields.io/badge/POO-herència%20i%20polimorfisme-blue)
+![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
+![PEM](https://img.shields.io/badge/assignatura-PEM-orange)
+
 Pràctiques d'herència i polimorfisme en C++ per a l'assignatura de Programació Estructurada i Modular (PEM) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada). La solució és `HerenciesCpp.slnx` (Visual Studio).
 
 ## Projectes

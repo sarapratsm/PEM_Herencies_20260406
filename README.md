@@ -1,10 +1,10 @@
 # Herències en C++ (PEM)
 
-![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?logo=visualstudio&logoColor=white)
-![Herència](https://img.shields.io/badge/POO-herència%20i%20polimorfisme-blue)
-![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green)
-![PEM](https://img.shields.io/badge/assignatura-Programaci%C3%B3%20Estructurada%20i%20Modular-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
+![Herència](https://img.shields.io/badge/POO-herència%20i%20polimorfisme-blue?style=for-the-badge)
+![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green?style=for-the-badge)
+![PEM](https://img.shields.io/badge/assignatura-Programaci%C3%B3%20Estructurada%20i%20Modular-orange?style=for-the-badge)
 
 Pràctiques d'herència i polimorfisme en C++ per a l'assignatura de Programació Estructurada i Modular (PEM) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada). La solució és `HerenciesCpp.slnx` (Visual Studio).
 
